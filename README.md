@@ -10,8 +10,6 @@ I am an ordinary human being who is learning to be a web developer. Through my m
 * 🖥️  See my portfolio at [Reza-irfan-wijaya](http://bit.ly/reza-irfan-wijaya)
 * ✉️  You can contact me at [rezairfanwijaya23@gmail.com](mailto:rezairfanwijaya23@gmail.com)
 
-<a href="https://www.github.com/rezairfanwijaya" target="_blank" rel="noreferrer"><img
-
 
 ### Skills
 
