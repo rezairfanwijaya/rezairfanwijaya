@@ -11,7 +11,7 @@ I am an ordinary human being who is learning to be a web developer. Through my m
 * ✉️  You can contact me at [rezairfanwijaya23@gmail.com](mailto:rezairfanwijaya23@gmail.com)
 
 <a href="https://www.github.com/rezairfanwijaya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rezairfanwijaya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
