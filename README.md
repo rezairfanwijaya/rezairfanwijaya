@@ -13,7 +13,7 @@ I am an ordinary human being who is learning to be a web developer. Through my m
 
 ### Skills
 
-NO SKILL
+IN SEARCHING
 
 
 ### Socials
