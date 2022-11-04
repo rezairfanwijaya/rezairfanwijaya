@@ -1,7 +1,7 @@
 Hi 👋 My name is Reza Irfan Wijaya
 ==================================
 
-Coding Addict
+
 -------------
 
 I am an ordinary human being who is learning to be a web developer. Through my messy github repository, I hope you can learn some valuable lessons.
