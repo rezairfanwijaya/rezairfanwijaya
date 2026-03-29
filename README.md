@@ -22,4 +22,4 @@ IN SEARCHING
 
 ### Badges
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=onedark&border_radius=4&card_width=670&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=onedark&border_radius=4&card_width=900&card_height=230)](https://git.io/streak-stats)
