@@ -25,6 +25,6 @@ IN SEARCHING
 [![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=onedark&border_radius=4&card_width=900&card_height=230)](https://git.io/streak-stats)
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=gruvbox)
