@@ -3,7 +3,7 @@ Hi 👋 My name is Reza Irfan Wijaya
 
 I am an ordinary human being who is learning to be a web developer. Through my messy github repository, I hope you can learn some valuable lessons.
 
-* 🌍  I'm based in Setiabudi, South Jakarta
+* 🌍  I'm based in Jakarta, Indonesia
 * 🖥️  See my portfolio at [Reza-irfan-wijaya](https://rezairfan.vercel.app/)
 * ✉️  You can contact me at [rezairfanwijaya23@gmail.com](mailto:rezairfanwijaya23@gmail.com)
 * 🖥️  See my images at [Docker Images](https://hub.docker.com/repositories/rezairfanwijaya)
