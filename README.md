@@ -25,14 +25,6 @@ IN SEARCHING
 
 <b>My GitHub Stats</b>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=dracula)
-
-<a href="http://www.github.com/rezairfanwijaya"><img src="https://github-readme-stats.vercel.app/api?username=rezairfanwijaya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rezairfanwijaya's GitHub stats" /></a>
-
-<a href="http://www.github.com/rezairfanwijaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rezairfanwijaya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/rezairfanwijaya"><img src="https://activity-graph.herokuapp.com/graph?username=rezairfanwijaya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rezairfanwijaya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezairfanwijaya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=radical)
