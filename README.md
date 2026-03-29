@@ -23,7 +23,12 @@ IN SEARCHING
 ### Badges
 
 <p align="left">
-  <img height="180em" width="1200em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=gruvbox&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=gruvbox&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=gruvbox&hide_border=true" />
 </p>
+
+<table width="100%">
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox&hide_border=true" /></td>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=gruvbox&hide_border=true" /></td>
+  </tr>
+</table>
