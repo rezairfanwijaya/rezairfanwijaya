@@ -21,12 +21,9 @@ IN SEARCHING
 </p>
 
 ### Badges
-<p>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=gruvbox)  
-</p>
-
-<br>
-
+<br/>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=gruvbox)
