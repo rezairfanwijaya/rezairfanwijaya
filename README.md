@@ -24,15 +24,4 @@ IN SEARCHING
 
 <b>My GitHub Stats</b>
 
-<p align="left">
-  <a href="https://github.com/rezairfanwijaya">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/rezairfanwijaya">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=radical&hide_border=true" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=radical&border_radius=4)](https://git.io/streak-stats)
