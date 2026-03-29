@@ -21,9 +21,9 @@ IN SEARCHING
 </p>
 
 ### Badges
-<div>
+<p>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rezairfanwijaya&theme=gruvbox)  
-</div>
+</p>
 
 <br>
 
