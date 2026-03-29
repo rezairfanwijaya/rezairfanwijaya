@@ -28,7 +28,7 @@ IN SEARCHING
 
 <table width="100%">
   <tr>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox&hide_border=true" /></td>
+    <td width="55%"><img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=rezairfanwijaya&show_icons=true&theme=gruvbox&hide_border=true" /></td>
     <td width="55%"><img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rezairfanwijaya&layout=compact&theme=gruvbox&hide_border=true" /></td>
   </tr>
 </table>
