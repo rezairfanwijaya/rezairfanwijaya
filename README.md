@@ -22,6 +22,4 @@ IN SEARCHING
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=radical&border_radius=4&card_width=870&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rezairfanwijaya&theme=onedark&border_radius=4&card_width=670&card_height=200)](https://git.io/streak-stats)
